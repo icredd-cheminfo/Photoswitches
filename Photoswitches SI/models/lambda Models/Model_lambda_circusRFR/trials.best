@@ -1,0 +1,51 @@
+trial score desc scaling method max_depth max_features max_samples n_estimators
+443 0.7876268803300983 circus_0_2 scaled RFR 9 sqrt 0.8 20
+456 0.720519208496166 circus_0_2 scaled RFR 7 sqrt 0.5 20
+11 0.7190559906045846 circus_0_4 original RFR 10 sqrt 0.5 20
+14 0.7063705841550307 circus_0_2 scaled RFR 7 sqrt 0.3 50
+471 0.6566637185592723 circus_0_2 scaled RFR 10 log2 0.2 20
+38 0.6558462886518519 circus_0_3 original RFR 7 sqrt 0.3 20
+477 0.6347015037035546 circus_0_2 scaled RFR 9 log2 0.2 20
+12 0.6151520649654276 circus_0_4 scaled RFR 7 sqrt 0.3 20
+49 0.5529232193000356 circus_0_3 scaled RFR 5 sqrt 0.2 20
+146 0.5088864695813469 circus_0_2 scaled RFR 5 log2 0.8 20
+465 0.49749145120469873 circus_0_2 scaled RFR 5 log2 0.3 20
+150 0.4931320362954297 circus_0_3 scaled RFR 4 sqrt 0.2 20
+93 0.4844042296072787 circus_0_2 original RFR 5 log2 0.2 20
+478 0.4680194962065106 circus_0_3 original RFR 7 log2 0.3 20
+20 0.3954748918709422 circus_0_3 original RFR 5 log2 0.8 20
+120 0.3681531645900743 circus_0_2 scaled RFR 3 log2 0.7 20
+198 0.35507249823206477 circus_0_2 original RFR 3 log2 0.2 20
+424 0.27354382468599825 circus_0_3 original RFR 3 log2 0.7 20
+32 -0.0061967198133241475 circus_0_3 scaled RFR 5 sqrt 1.0 50
+31 -0.0061967198133241475 circus_0_4 original RFR 9 log2 1.0 50
+480 -0.012869712320811688 circus_0_4 original RFR 3  1.0 20
+450 -0.012869712320811688 circus_0_3 original RFR 9  1.0 20
+440 -0.012869712320811688 circus_0_4 original RFR 7  1.0 20
+158 -0.012869712320811688 circus_0_3 original RFR 6 sqrt 1.0 20
+236 -0.012869712320811688 circus_0_2 original RFR 10  1.0 20
+199 -0.012869712320811688 circus_0_2 scaled RFR 7 sqrt 1.0 20
+159 -0.012869712320811688 circus_0_2 scaled RFR 8 sqrt 1.0 20
+369 -0.012869712320811688 circus_0_2 original RFR 3 sqrt 1.0 20
+314 -0.012869712320811688 circus_0_2 scaled RFR 5 log2 1.0 20
+259 -0.012869712320811688 circus_0_2 scaled RFR 9 sqrt 1.0 20
+247 -0.012869712320811688 circus_0_2 scaled RFR 5  1.0 20
+381 -0.012869712320811688 circus_0_3 original RFR 8 log2 1.0 20
+36 -0.012869712320811688 circus_0_2 original RFR 5 log2 1.0 20
+101 -0.012869712320811688 circus_0_3 scaled RFR 7  1.0 20
+65 -0.012869712320811688 circus_0_4 scaled RFR 5 sqrt 1.0 20
+111 -0.012869712320811688 circus_0_3 scaled RFR 10 sqrt 1.0 20
+59 -0.012869712320811688 circus_0_2 scaled RFR 4 sqrt 1.0 20
+26 -0.012869712320811688 circus_0_4 original RFR 8 log2 1.0 20
+16 -0.012869712320811688 circus_0_3 scaled RFR 4  1.0 20
+499  circus_0_2 original RFR 6 sqrt 0.2 150
+498  circus_0_4 scaled RFR 7  0.5 100
+497  circus_0_2 scaled RFR 3  0.2 50
+496  circus_0_2 original RFR 4  0.2 50
+495  circus_0_3 scaled RFR 3  0.2 150
+494  circus_0_4 scaled RFR 3 sqrt 0.2 100
+493  circus_0_3 original RFR 8  0.8 200
+492  circus_0_3 scaled RFR 10 log2 0.5 200
+491  circus_0_4 scaled RFR 5 log2 0.7 100
+490  circus_0_3 scaled RFR 9 sqrt 1.0 150
+489  circus_0_2 scaled RFR 4  0.5 20

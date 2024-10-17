@@ -1,0 +1,500 @@
+trial score desc scaling method max_depth max_features max_samples n_estimators
+499 0.6190129609899504 atompairs_1024 original RFR 3 sqrt 0.7 20
+498 0.7662758314782616 atompairs_1024 original RFR 9 log2 0.8 200
+497 -0.004574399441055865 atompairs_1024 scaled RFR 7 log2 1.0 100
+496 0.6381940244514607 atompairs_1024 original RFR 5 log2 0.3 150
+495  atompairs_1024 original RFR 9  0.3 150
+494 -0.0020933572443986304 atompairs_1024 scaled RFR 9  1.0 200
+493 0.7256687612905711 atompairs_1024 original RFR 8 sqrt 0.2 20
+492 0.5952832789475233 atompairs_1024 original RFR 4 log2 0.5 20
+491 0.7303418404676922 atompairs_1024 original RFR 9 sqrt 0.2 50
+490  atompairs_1024 scaled RFR 6  0.2 50
+489 0.7866926585678488 atompairs_1024 original RFR 9 sqrt 0.5 150
+488 -0.004694423915762025 atompairs_1024 original RFR 5  1.0 150
+487 0.733145774533285 atompairs_1024 scaled RFR 9 sqrt 0.2 200
+486 0.6771297886664331 atompairs_1024 scaled RFR 4 sqrt 0.5 150
+485 0.7618242469378147 atompairs_1024 scaled RFR 6 sqrt 0.8 100
+484 0.7026529410368991 atompairs_1024 scaled RFR 10 log2 0.2 200
+483 0.7480254612347819 atompairs_1024 scaled RFR 8 log2 0.7 50
+482 0.5981476071084892 atompairs_1024 scaled RFR 4 log2 0.7 200
+481 0.5952832789475233 atompairs_1024 original RFR 4 log2 0.5 20
+480 0.7766106787724099 atompairs_1024 scaled RFR 10 log2 0.8 50
+479 0.7239191414680619 atompairs_1024 original RFR 7 log2 0.7 20
+478  atompairs_1024 original RFR 5  0.7 50
+477 0.7549545337943528 atompairs_1024 scaled RFR 8 sqrt 0.3 100
+476  atompairs_1024 scaled RFR 7  0.5 20
+475 -0.003931762608821332 atompairs_1024 original RFR 8  1.0 20
+474 0.5891914510094269 atompairs_1024 scaled RFR 4 log2 0.3 50
+473 0.6544285511880925 atompairs_1024 scaled RFR 5 log2 0.8 150
+472 -0.010352090138365355 atompairs_1024 scaled RFR 9 log2 1.0 50
+471 0.7244236941055011 atompairs_1024 original RFR 7 log2 0.7 150
+470 0.7305682143377552 atompairs_1024 original RFR 5 sqrt 0.8 20
+469 0.7282972066475486 atompairs_1024 original RFR 8 sqrt 0.2 150
+468  atompairs_1024 scaled RFR 7 sqrt 0.5 200
+467 -0.003931762608821332 atompairs_1024 scaled RFR 5 sqrt 1.0 20
+466 0.6527048963470914 atompairs_1024 scaled RFR 5 log2 0.7 50
+465 0.7469639615991165 atompairs_1024 original RFR 7 sqrt 0.3 150
+464 -0.0020933572443986304 atompairs_1024 original RFR 8 log2 1.0 200
+463 0.5896017290699149 atompairs_1024 scaled RFR 4 log2 0.3 20
+462  atompairs_1024 scaled RFR 7  0.3 50
+461 0.723128493370788 atompairs_1024 scaled RFR 9 log2 0.3 50
+460 0.6690755661875742 atompairs_1024 scaled RFR 4 sqrt 0.3 150
+459  atompairs_1024 scaled RFR 5  0.8 50
+458 0.7190378576868184 atompairs_1024 original RFR 7 log2 0.5 20
+457 0.6492995036071443 atompairs_1024 scaled RFR 5 log2 0.5 150
+456 0.6764256237589001 atompairs_1024 original RFR 4 sqrt 0.5 20
+455  atompairs_1024 original RFR 7  0.8 150
+454 -0.003931762608821332 atompairs_1024 original RFR 4 log2 1.0 20
+453 0.6901197694629555 atompairs_1024 scaled RFR 5 sqrt 0.2 150
+452 0.6530619769246602 atompairs_1024 scaled RFR 5 log2 0.8 20
+451  atompairs_1024 scaled RFR 5  0.7 200
+450 -0.0020933572443986304 atompairs_1024 scaled RFR 10  1.0 200
+449 0.5163664692356349 atompairs_1024 original RFR 3 log2 0.2 150
+448 0.653379178824368 atompairs_1024 scaled RFR 5 log2 0.7 150
+447 0.697706891544499 atompairs_1024 scaled RFR 9 log2 0.2 150
+446 0.5959178323638786 atompairs_1024 original RFR 4 log2 0.5 50
+445 -0.004574399441055865 atompairs_1024 scaled RFR 6 log2 1.0 100
+444 -0.004694423915762025 atompairs_1024 original RFR 8 sqrt 1.0 150
+443 0.6939756629242579 atompairs_1024 original RFR 6 log2 0.7 100
+442 0.7300496039791637 atompairs_1024 scaled RFR 10 log2 0.3 150
+441 0.7165625804959158 atompairs_1024 scaled RFR 7 log2 0.5 200
+440 0.7234826179927184 atompairs_1024 scaled RFR 5 sqrt 0.5 20
+439 -0.003931762608821332 atompairs_1024 scaled RFR 3 log2 1.0 20
+438 0.697706891544499 atompairs_1024 original RFR 9 log2 0.2 150
+437  atompairs_1024 original RFR 8  0.5 200
+436 0.7320232768675214 atompairs_1024 scaled RFR 9 sqrt 0.2 100
+435  atompairs_1024 scaled RFR 9  0.8 20
+434  atompairs_1024 scaled RFR 5  0.3 150
+433  atompairs_1024 scaled RFR 10  0.8 20
+432 -0.0020933572443986304 atompairs_1024 original RFR 6 log2 1.0 200
+431  atompairs_1024 original RFR 6  0.8 20
+430 0.6963048054093326 atompairs_1024 scaled RFR 6 log2 0.8 100
+429 0.6002095856292311 atompairs_1024 original RFR 3 sqrt 0.2 150
+428 0.7256687612905711 atompairs_1024 scaled RFR 8 sqrt 0.2 20
+427 0.7923327668265403 atompairs_1024 scaled RFR 10 sqrt 0.5 100
+426 0.723125217337502 atompairs_1024 original RFR 7 log2 0.7 100
+425 0.7299587418337102 atompairs_1024 scaled RFR 10 log2 0.3 200
+424  atompairs_1024 scaled RFR 8 sqrt 0.5 200
+423 0.653379178824368 atompairs_1024 original RFR 5 log2 0.7 150
+422 0.6002095856292311 atompairs_1024 original RFR 3 sqrt 0.2 150
+421 0.6359305793795758 atompairs_1024 original RFR 5 log2 0.3 100
+420 -0.0020933572443986304 atompairs_1024 original RFR 10  1.0 200
+419  atompairs_1024 scaled RFR 7  0.2 100
+418 0.6364645095443755 atompairs_1024 scaled RFR 5 log2 0.3 200
+417 0.7726562528562749 atompairs_1024 original RFR 10 log2 0.7 20
+416 -0.004694423915762025 atompairs_1024 original RFR 4 log2 1.0 150
+415 0.6771297886664331 atompairs_1024 scaled RFR 4 sqrt 0.5 150
+414  atompairs_1024 original RFR 10  0.3 20
+413  atompairs_1024 scaled RFR 6 sqrt 0.5 200
+412  atompairs_1024 scaled RFR 5  0.8 50
+411 0.6097258105130745 atompairs_1024 original RFR 3 sqrt 0.3 50
+410  atompairs_1024 original RFR 4 sqrt 0.5 200
+409 -0.004694423915762025 atompairs_1024 scaled RFR 10 sqrt 1.0 150
+408 0.6181070903772843 atompairs_1024 scaled RFR 5 log2 0.2 20
+407 0.7305683877687967 atompairs_1024 scaled RFR 5 sqrt 0.8 150
+406 -0.010352090138365355 atompairs_1024 scaled RFR 5 log2 1.0 50
+405 -0.003931762608821332 atompairs_1024 original RFR 4 sqrt 1.0 20
+404 -0.0020933572443986304 atompairs_1024 scaled RFR 5  1.0 200
+403 -0.0020933572443986304 atompairs_1024 original RFR 3 log2 1.0 200
+402  atompairs_1024 original RFR 3 sqrt 0.5 200
+401  atompairs_1024 original RFR 7 sqrt 0.5 200
+400 0.7256687612905711 atompairs_1024 original RFR 8 sqrt 0.2 20
+399 0.7277553265120331 atompairs_1024 scaled RFR 5 sqrt 0.7 150
+398  atompairs_1024 scaled RFR 10  0.8 150
+397  atompairs_1024 original RFR 5 sqrt 0.8 150
+396 0.7444023401457371 atompairs_1024 scaled RFR 7 sqrt 0.3 50
+395 0.6867071207791149 atompairs_1024 scaled RFR 8 log2 0.2 100
+394 0.7540389469180522 atompairs_1024 scaled RFR 8 sqrt 0.3 150
+393  atompairs_1024 scaled RFR 8  0.7 20
+392  atompairs_1024 original RFR 4  0.3 50
+391  atompairs_1024 scaled RFR 10 log2 0.5 200
+390 0.7630568580321216 atompairs_1024 original RFR 9 sqrt 0.3 20
+389 0.7264216305324822 atompairs_1024 scaled RFR 6 sqrt 0.3 20
+388 0.7331432355628329 atompairs_1024 original RFR 10 sqrt 0.2 150
+387 0.7156257268058687 atompairs_1024 scaled RFR 7 log2 0.5 150
+386 -0.010352090138365355 atompairs_1024 scaled RFR 6 sqrt 1.0 50
+385  atompairs_1024 original RFR 4  0.8 200
+384 0.766707585189469 atompairs_1024 scaled RFR 9 log2 0.8 100
+383 0.8073284637627443 atompairs_1024 original RFR 10 sqrt 0.7 100
+382 0.695462647501979 atompairs_1024 scaled RFR 6 log2 0.7 150
+381 0.723128493370788 atompairs_1024 original RFR 9 log2 0.3 50
+380 0.7272827571968066 atompairs_1024 scaled RFR 5 sqrt 0.8 50
+379 0.5959178323638786 atompairs_1024 scaled RFR 4 log2 0.5 50
+378  atompairs_1024 original RFR 5  0.2 150
+377  atompairs_1024 scaled RFR 9 sqrt 0.8 150
+376  atompairs_1024 scaled RFR 8  0.3 100
+375  atompairs_1024 original RFR 9  0.7 150
+374 -0.010352090138365355 atompairs_1024 original RFR 4 log2 1.0 50
+373 0.681570860596302 atompairs_1024 original RFR 4 sqrt 0.7 150
+372 0.5248126751935699 atompairs_1024 scaled RFR 3 log2 0.7 200
+371 -0.0020933572443986304 atompairs_1024 original RFR 10 sqrt 1.0 200
+370  atompairs_1024 scaled RFR 5 sqrt 0.3 200
+369 0.5244191862138374 atompairs_1024 scaled RFR 3 log2 0.7 20
+368 0.5234809496983691 atompairs_1024 original RFR 3 log2 0.5 200
+367 -0.0020933572443986304 atompairs_1024 scaled RFR 9  1.0 200
+366 0.7638318345838412 atompairs_1024 scaled RFR 10 sqrt 0.3 50
+365 -0.004694423915762025 atompairs_1024 scaled RFR 5  1.0 150
+364  atompairs_1024 original RFR 4  0.3 150
+363  atompairs_1024 scaled RFR 10 sqrt 0.7 150
+362 0.6533573463170387 atompairs_1024 scaled RFR 4 sqrt 0.2 100
+361  atompairs_1024 scaled RFR 10 sqrt 0.8 100
+360 0.7307207050824237 atompairs_1024 original RFR 6 sqrt 0.3 100
+359 0.7097154148787712 atompairs_1024 original RFR 6 sqrt 0.2 100
+358  atompairs_1024 scaled RFR 5  0.3 50
+357 -0.0020933572443986304 atompairs_1024 scaled RFR 6  1.0 200
+356 -0.003931762608821332 atompairs_1024 scaled RFR 10 sqrt 1.0 20
+355 -0.0020933572443986304 atompairs_1024 scaled RFR 6 log2 1.0 200
+354 0.6861706803080789 atompairs_1024 original RFR 6 log2 0.5 150
+353 0.7307207050824237 atompairs_1024 scaled RFR 6 sqrt 0.3 100
+352  atompairs_1024 scaled RFR 7  0.8 100
+351 -0.004694423915762025 atompairs_1024 original RFR 8  1.0 150
+350 0.5267097205938258 atompairs_1024 original RFR 3 log2 0.8 150
+349 0.6865033519731498 atompairs_1024 original RFR 8 log2 0.2 150
+348 -0.0020933572443986304 atompairs_1024 scaled RFR 8 log2 1.0 200
+347 0.7868808695024525 atompairs_1024 original RFR 9 sqrt 0.5 20
+346  atompairs_1024 original RFR 9 sqrt 0.5 200
+345  atompairs_1024 scaled RFR 10  0.7 20
+344  atompairs_1024 scaled RFR 10 sqrt 0.3 150
+343  atompairs_1024 scaled RFR 10 log2 0.2 200
+342  atompairs_1024 original RFR 9  0.2 200
+341 0.7492856975808243 atompairs_1024 scaled RFR 8 log2 0.8 50
+340 0.7632338993304633 atompairs_1024 original RFR 7  0.2 20
+339 0.5981908297891643 atompairs_1024 original RFR 4 log2 0.8 150
+338 0.7923327668265403 atompairs_1024 scaled RFR 10 sqrt 0.5 100
+337  atompairs_1024 scaled RFR 8  0.8 150
+336 0.6827453034810724 atompairs_1024 scaled RFR 4 sqrt 0.8 100
+335 0.8059129554842773 atompairs_1024 scaled RFR 9 sqrt 0.8 20
+334  atompairs_1024 scaled RFR 6  0.8 100
+333 0.7465491583447168 atompairs_1024 scaled RFR 8 log2 0.7 150
+332 -0.004694423915762025 atompairs_1024 scaled RFR 3 sqrt 1.0 150
+331 0.5975564360741712 atompairs_1024 original RFR 4 log2 0.8 100
+330 0.6965139096856388 atompairs_1024 scaled RFR 7 log2 0.3 20
+329 0.7239191414680619 atompairs_1024 scaled RFR 7 log2 0.7 20
+328 0.7836403116364971 atompairs_1024 scaled RFR 7  0.3 20
+327 0.7097600025761832 atompairs_1024 scaled RFR 8 log2 0.3 100
+326 -0.004574399441055865 atompairs_1024 scaled RFR 10 sqrt 1.0 100
+325  atompairs_1024 scaled RFR 4 sqrt 0.8 200
+324  atompairs_1024 original RFR 9  0.8 150
+323  atompairs_1024 scaled RFR 10  0.7 200
+322  atompairs_1024 original RFR 6  0.5 50
+321 0.6861706803080789 atompairs_1024 original RFR 6 log2 0.5 150
+320 0.6494636084999743 atompairs_1024 scaled RFR 5 log2 0.5 20
+319  atompairs_1024 scaled RFR 4 sqrt 0.5 200
+318 0.5891914510094269 atompairs_1024 original RFR 4 log2 0.3 50
+317  atompairs_1024 original RFR 9 sqrt 0.5 150
+316 0.6865033519731498 atompairs_1024 scaled RFR 8 log2 0.2 150
+315  atompairs_1024 original RFR 3  0.3 150
+314 0.6867071207791149 atompairs_1024 original RFR 8 log2 0.2 100
+313 0.7492856975808243 atompairs_1024 scaled RFR 8 log2 0.8 50
+312  atompairs_1024 scaled RFR 6  0.7 200
+311 0.6007175979470257 atompairs_1024 original RFR 3 sqrt 0.2 100
+310  atompairs_1024 scaled RFR 10 sqrt 0.2 200
+309  atompairs_1024 original RFR 6  0.5 200
+308 0.6754177685261191 atompairs_1024 scaled RFR 6 log2 0.3 20
+307 -0.003931762608821332 atompairs_1024 scaled RFR 3 log2 1.0 20
+306  atompairs_1024 scaled RFR 7  0.5 150
+305  atompairs_1024 scaled RFR 8  0.3 50
+304 -0.003931762608821332 atompairs_1024 original RFR 7 log2 1.0 20
+303  atompairs_1024 scaled RFR 8 sqrt 0.7 150
+302 -0.010352090138365355 atompairs_1024 original RFR 4 log2 1.0 50
+301 -0.004694423915762025 atompairs_1024 original RFR 10 sqrt 1.0 150
+300  atompairs_1024 scaled RFR 6  0.8 50
+299  atompairs_1024 scaled RFR 9 log2 0.3 200
+298  atompairs_1024 original RFR 6  0.3 50
+297 -0.0020933572443986304 atompairs_1024 original RFR 4 sqrt 1.0 200
+296 0.7188271234065664 atompairs_1024 original RFR 5 sqrt 0.5 50
+295 0.8059129554842773 atompairs_1024 original RFR 9 sqrt 0.8 20
+294 0.5999049087348733 atompairs_1024 original RFR 4 log2 0.8 50
+293 0.621310223336933 atompairs_1024 scaled RFR 3 sqrt 0.8 20
+292  atompairs_1024 scaled RFR 10  0.7 200
+291 0.7778237366098876 atompairs_1024 scaled RFR 6  0.3 20
+290 0.7665071335018048 atompairs_1024 original RFR 6 sqrt 0.8 20
+289 -0.003931762608821332 atompairs_1024 scaled RFR 7 sqrt 1.0 20
+288 0.7323117003147945 atompairs_1024 original RFR 10 sqrt 0.2 50
+287  atompairs_1024 scaled RFR 6 sqrt 0.2 200
+286  atompairs_1024 scaled RFR 4 log2 0.8 200
+285  atompairs_1024 scaled RFR 7  0.7 20
+284 0.7287953347918026 atompairs_1024 scaled RFR 8 sqrt 0.2 100
+283  atompairs_1024 scaled RFR 3 sqrt 0.5 200
+282  atompairs_1024 original RFR 9 sqrt 0.7 200
+281 0.7697745741285049 atompairs_1024 original RFR 9  0.2 20
+280  atompairs_1024 scaled RFR 8  0.7 200
+279  atompairs_1024 original RFR 4  0.2 200
+278  atompairs_1024 original RFR 4  0.5 50
+277  atompairs_1024 original RFR 7 log2 0.8 200
+276 0.6018113559374555 atompairs_1024 original RFR 3 sqrt 0.2 50
+275 0.6865033519731498 atompairs_1024 scaled RFR 8 log2 0.2 150
+274  atompairs_1024 scaled RFR 10  0.2 100
+273 0.8030986012860881 atompairs_1024 scaled RFR 9 sqrt 0.7 100
+272  atompairs_1024 scaled RFR 4  0.8 150
+271  atompairs_1024 scaled RFR 10 log2 0.5 200
+270  atompairs_1024 scaled RFR 10  0.7 50
+269 0.7066832288503313 atompairs_1024 scaled RFR 5 sqrt 0.3 150
+268 0.7778237366098876 atompairs_1024 scaled RFR 6  0.3 20
+267 -0.004574399441055865 atompairs_1024 original RFR 5 sqrt 1.0 100
+266 -0.0020933572443986304 atompairs_1024 original RFR 9  1.0 200
+265 0.653669356598376 atompairs_1024 original RFR 5 log2 0.8 100
+264  atompairs_1024 scaled RFR 10  0.5 100
+263 0.7686260263279932 atompairs_1024 original RFR 10  0.2 20
+262 0.7697467103896533 atompairs_1024 original RFR 7 sqrt 0.5 20
+261  atompairs_1024 scaled RFR 8  0.8 150
+260  atompairs_1024 original RFR 6  0.7 50
+259 -0.003931762608821332 atompairs_1024 original RFR 6 sqrt 1.0 20
+258 0.6978097854835535 atompairs_1024 scaled RFR 6 log2 0.8 50
+257  atompairs_1024 scaled RFR 5 sqrt 0.7 150
+256 0.5267097205938258 atompairs_1024 scaled RFR 3 log2 0.8 150
+255 0.6165718060635134 atompairs_1024 original RFR 3 sqrt 0.8 150
+254  atompairs_1024 scaled RFR 6  0.8 20
+253 0.7596894435575721 atompairs_1024 scaled RFR 6  0.2 20
+252 0.7606597356221219 atompairs_1024 scaled RFR 9 sqrt 0.3 100
+251 0.6190129609899504 atompairs_1024 scaled RFR 3 sqrt 0.7 20
+250 -0.010352090138365355 atompairs_1024 original RFR 7  1.0 50
+249 0.6940157840407104 atompairs_1024 scaled RFR 6 log2 0.7 50
+248 0.7599163612339496 atompairs_1024 scaled RFR 6 sqrt 0.7 100
+247  atompairs_1024 original RFR 6  0.7 200
+246 0.7188271234065664 atompairs_1024 original RFR 5 sqrt 0.5 50
+245 0.6537598359425172 atompairs_1024 original RFR 5 log2 0.7 100
+244  atompairs_1024 scaled RFR 8 sqrt 0.2 200
+243  atompairs_1024 original RFR 8  0.5 200
+242 0.7511160156768282 atompairs_1024 original RFR 8 sqrt 0.3 50
+241  atompairs_1024 original RFR 3  0.5 50
+240 0.7298921527671394 atompairs_1024 scaled RFR 10 log2 0.3 50
+239  atompairs_1024 scaled RFR 6  0.3 100
+238 0.5959178323638786 atompairs_1024 scaled RFR 4 log2 0.5 50
+237 0.7156257268058687 atompairs_1024 original RFR 7 log2 0.5 150
+236  atompairs_1024 original RFR 8  0.8 20
+235 0.7602948026538534 atompairs_1024 scaled RFR 9 log2 0.7 20
+234  atompairs_1024 scaled RFR 4  0.7 200
+233  atompairs_1024 scaled RFR 5  0.7 20
+232 0.7282972066475486 atompairs_1024 original RFR 8 sqrt 0.2 150
+231 0.6795886142931731 atompairs_1024 original RFR 4 sqrt 0.7 50
+230 0.6714628996222513 atompairs_1024 original RFR 6 log2 0.3 100
+229  atompairs_1024 original RFR 10 sqrt 0.7 200
+228 -0.0020933572443986304 atompairs_1024 original RFR 8 sqrt 1.0 200
+227  atompairs_1024 original RFR 6  0.5 100
+226 0.8049179738107176 atompairs_1024 original RFR 9 sqrt 0.8 50
+225  atompairs_1024 scaled RFR 4  0.3 50
+224 0.7475138775659946 atompairs_1024 original RFR 6 sqrt 0.5 50
+223 0.7540389469180522 atompairs_1024 scaled RFR 8 sqrt 0.3 150
+222  atompairs_1024 scaled RFR 7 sqrt 0.2 200
+221 0.7630568580321216 atompairs_1024 scaled RFR 9 sqrt 0.3 20
+220 -0.004694423915762025 atompairs_1024 original RFR 6  1.0 150
+219  atompairs_1024 scaled RFR 7 sqrt 0.3 200
+218 -0.003931762608821332 atompairs_1024 original RFR 5  1.0 20
+217  atompairs_1024 original RFR 9 log2 0.7 150
+216 -0.010352090138365355 atompairs_1024 original RFR 9 sqrt 1.0 50
+215  atompairs_1024 original RFR 10  0.5 20
+214 -0.010352090138365355 atompairs_1024 scaled RFR 4  1.0 50
+213 0.5855765050812722 atompairs_1024 scaled RFR 4 log2 0.3 200
+212 0.7209543835488957 atompairs_1024 original RFR 5 sqrt 0.5 150
+211 0.6533573463170387 atompairs_1024 original RFR 4 sqrt 0.2 100
+210  atompairs_1024 scaled RFR 9  0.3 50
+209  atompairs_1024 scaled RFR 8  0.7 50
+208 -0.003931762608821332 atompairs_1024 scaled RFR 10  1.0 20
+207 0.6093796418638804 atompairs_1024 original RFR 3 sqrt 0.3 150
+206  atompairs_1024 original RFR 3  0.8 50
+205  atompairs_1024 scaled RFR 5  0.8 100
+204 0.6521117530475338 atompairs_1024 original RFR 6 log2 0.2 100
+203  atompairs_1024 original RFR 10  0.5 50
+202 0.7188271234065664 atompairs_1024 original RFR 5 sqrt 0.5 50
+201 0.7239191414680619 atompairs_1024 scaled RFR 7 log2 0.7 20
+200 -0.004574399441055865 atompairs_1024 original RFR 9  1.0 100
+199 0.7483022913763808 atompairs_1024 original RFR 9 log2 0.5 100
+198 0.7500490373499824 atompairs_1024 scaled RFR 8 log2 0.8 150
+197 0.6135329024410282 atompairs_1024 original RFR 3 sqrt 0.5 100
+196  atompairs_1024 scaled RFR 5  0.2 50
+195 0.7438355397003931 atompairs_1024 original RFR 4  0.5 20
+194 -0.010352090138365355 atompairs_1024 original RFR 7  1.0 50
+193 0.7103129097974605 atompairs_1024 scaled RFR 6 sqrt 0.2 20
+192 0.6466234337684528 atompairs_1024 original RFR 5 log2 0.5 200
+191  atompairs_1024 original RFR 10  0.8 50
+190 0.6544285511880925 atompairs_1024 original RFR 5 log2 0.8 150
+189 0.5864037369500052 atompairs_1024 original RFR 4 log2 0.3 100
+188  atompairs_1024 original RFR 9  0.7 100
+187  atompairs_1024 original RFR 4  0.5 50
+186 0.7453737035417367 atompairs_1024 original RFR 7 sqrt 0.3 20
+185  atompairs_1024 scaled RFR 10  0.3 50
+184 -0.004574399441055865 atompairs_1024 original RFR 5 log2 1.0 100
+183  atompairs_1024 scaled RFR 9 log2 0.7 200
+182 0.7715056047072512 atompairs_1024 original RFR 10 log2 0.7 50
+181 -0.0020933572443986304 atompairs_1024 scaled RFR 8  1.0 200
+180 0.6672984360732606 atompairs_1024 original RFR 4 sqrt 0.3 20
+179 -0.010352090138365355 atompairs_1024 original RFR 3 sqrt 1.0 50
+178 0.759339508231225 atompairs_1024 original RFR 6 sqrt 0.7 50
+177  atompairs_1024 original RFR 7  0.2 50
+176  atompairs_1024 original RFR 6  0.7 20
+175 0.7324281788744217 atompairs_1024 original RFR 4  0.2 20
+174 0.6976502261831721 atompairs_1024 scaled RFR 3  0.2 20
+173  atompairs_1024 scaled RFR 7  0.3 50
+172  atompairs_1024 scaled RFR 7 sqrt 0.2 200
+171 0.5137472263028178 atompairs_1024 original RFR 3 log2 0.2 200
+170  atompairs_1024 original RFR 5  0.5 50
+169 0.7994865706213624 atompairs_1024 scaled RFR 9 sqrt 0.7 50
+168  atompairs_1024 scaled RFR 10 log2 0.7 150
+167 0.5979875062419876 atompairs_1024 original RFR 4 log2 0.7 100
+166  atompairs_1024 scaled RFR 8 log2 0.3 200
+165  atompairs_1024 scaled RFR 3  0.8 100
+164 0.7819380057745061 atompairs_1024 scaled RFR 7 sqrt 0.8 50
+163  atompairs_1024 original RFR 7 sqrt 0.3 200
+162 0.612113913581779 atompairs_1024 original RFR 3 sqrt 0.5 50
+161 -0.010352090138365355 atompairs_1024 original RFR 10 sqrt 1.0 50
+160  atompairs_1024 scaled RFR 10  0.7 200
+159  atompairs_1024 original RFR 6  0.7 100
+158 0.7151176210280328 atompairs_1024 original RFR 7 log2 0.5 100
+157 0.7833216623413619 atompairs_1024 original RFR 7 sqrt 0.8 100
+156 0.7686260263279932 atompairs_1024 scaled RFR 10  0.2 20
+155 0.8059129554842773 atompairs_1024 scaled RFR 9 sqrt 0.8 20
+154 0.7324281788744217 atompairs_1024 original RFR 4  0.2 20
+153 0.6537598359425172 atompairs_1024 scaled RFR 5 log2 0.7 100
+152 0.70000749349608 atompairs_1024 scaled RFR 10 log2 0.2 50
+151 0.7549545337943528 atompairs_1024 scaled RFR 8 sqrt 0.3 100
+150 0.6978097854835535 atompairs_1024 original RFR 6 log2 0.8 50
+149 0.7766106787724099 atompairs_1024 scaled RFR 10 log2 0.8 50
+148  atompairs_1024 original RFR 4  0.2 100
+147 0.7645500026233537 atompairs_1024 original RFR 9 log2 0.8 20
+146 0.7061676447741173 atompairs_1024 scaled RFR 5 sqrt 0.3 100
+145  atompairs_1024 scaled RFR 6 sqrt 0.5 200
+144 -0.003931762608821332 atompairs_1024 original RFR 4  1.0 20
+143 -0.003931762608821332 atompairs_1024 original RFR 6 sqrt 1.0 20
+142 -0.004574399441055865 atompairs_1024 original RFR 10  1.0 100
+141  atompairs_1024 original RFR 5 sqrt 0.5 200
+140  atompairs_1024 scaled RFR 5  0.8 50
+139 0.6978097854835535 atompairs_1024 original RFR 6 log2 0.8 50
+138  atompairs_1024 original RFR 7  0.7 100
+137 0.5267562644173771 atompairs_1024 original RFR 3 log2 0.7 150
+136  atompairs_1024 original RFR 4 sqrt 0.7 200
+135 -0.004694423915762025 atompairs_1024 scaled RFR 10 log2 1.0 150
+134 -0.0020933572443986304 atompairs_1024 original RFR 9 log2 1.0 200
+133  atompairs_1024 scaled RFR 7 log2 0.7 200
+132  atompairs_1024 scaled RFR 7 sqrt 0.5 200
+131 0.616308336787118 atompairs_1024 original RFR 3 sqrt 0.7 50
+130 -0.004574399441055865 atompairs_1024 original RFR 9  1.0 100
+129 0.7715056047072512 atompairs_1024 scaled RFR 10 log2 0.7 50
+128  atompairs_1024 scaled RFR 3 sqrt 0.8 200
+127 0.723125217337502 atompairs_1024 original RFR 7 log2 0.7 100
+126 0.7303418404676922 atompairs_1024 original RFR 9 sqrt 0.2 50
+125 -0.0020933572443986304 atompairs_1024 scaled RFR 7 log2 1.0 200
+124 0.7331432355628329 atompairs_1024 scaled RFR 10 sqrt 0.2 150
+123 0.7840891740335416 atompairs_1024 original RFR 7 sqrt 0.7 20
+122  atompairs_1024 scaled RFR 8  0.7 200
+121  atompairs_1024 original RFR 3  0.3 200
+120 -0.004574399441055865 atompairs_1024 scaled RFR 4  1.0 100
+119 0.6374098979945919 atompairs_1024 original RFR 5 log2 0.3 20
+118 0.7974202118065759 atompairs_1024 original RFR 8 sqrt 0.8 100
+117  atompairs_1024 scaled RFR 5 log2 0.8 200
+116 0.7212149541776861 atompairs_1024 scaled RFR 7 sqrt 0.2 150
+115  atompairs_1024 original RFR 9  0.5 100
+114  atompairs_1024 original RFR 4  0.5 50
+113  atompairs_1024 scaled RFR 7  0.5 20
+112  atompairs_1024 scaled RFR 7 sqrt 0.5 150
+111 0.8059857715556321 atompairs_1024 original RFR 10 sqrt 0.7 20
+110 0.6018113559374555 atompairs_1024 scaled RFR 3 sqrt 0.2 50
+109  atompairs_1024 original RFR 10 log2 0.5 200
+108  atompairs_1024 scaled RFR 4  0.5 100
+107 0.7298921527671394 atompairs_1024 scaled RFR 10 log2 0.3 50
+106  atompairs_1024 scaled RFR 10  0.7 50
+105 0.526180819351135 atompairs_1024 scaled RFR 3 log2 0.7 50
+104  atompairs_1024 scaled RFR 8  0.5 20
+103 0.5228823202127012 atompairs_1024 scaled RFR 3 log2 0.8 20
+102  atompairs_1024 scaled RFR 9  0.8 50
+101 0.8049179738107176 atompairs_1024 original RFR 9 sqrt 0.8 50
+100 -0.003931762608821332 atompairs_1024 original RFR 7 sqrt 1.0 20
+99  atompairs_1024 scaled RFR 5  0.8 100
+98  atompairs_1024 original RFR 9 log2 0.7 200
+97 -0.010352090138365355 atompairs_1024 original RFR 6 sqrt 1.0 50
+96 0.6550273851893629 atompairs_1024 scaled RFR 4 sqrt 0.2 150
+95 0.6018113559374555 atompairs_1024 scaled RFR 3 sqrt 0.2 50
+94  atompairs_1024 scaled RFR 8  0.7 200
+93  atompairs_1024 original RFR 10 log2 0.5 200
+92  atompairs_1024 scaled RFR 4  0.5 100
+91  atompairs_1024 original RFR 4  0.2 100
+90  atompairs_1024 original RFR 3  0.2 200
+89  atompairs_1024 scaled RFR 7  0.2 150
+88  atompairs_1024 scaled RFR 10 log2 0.2 200
+87  atompairs_1024 original RFR 10 sqrt 0.5 200
+86 0.7782647857648949 atompairs_1024 original RFR 7 sqrt 0.7 100
+85  atompairs_1024 original RFR 7 log2 0.8 200
+84  atompairs_1024 original RFR 6  0.5 100
+83 0.5212289773979086 atompairs_1024 scaled RFR 3 log2 0.3 50
+82 0.6676481485635825 atompairs_1024 scaled RFR 4 sqrt 0.3 100
+81 -0.0020933572443986304 atompairs_1024 scaled RFR 10 sqrt 1.0 200
+80  atompairs_1024 scaled RFR 7 sqrt 0.5 200
+79  atompairs_1024 scaled RFR 6 sqrt 0.8 200
+78  atompairs_1024 original RFR 10 sqrt 0.3 150
+77 0.7472077441503103 atompairs_1024 scaled RFR 8 log2 0.7 100
+76  atompairs_1024 scaled RFR 6 log2 0.8 200
+75  atompairs_1024 scaled RFR 5  0.3 150
+74 0.653379178824368 atompairs_1024 original RFR 5 log2 0.7 150
+73  atompairs_1024 scaled RFR 8 sqrt 0.3 200
+72  atompairs_1024 scaled RFR 10  0.7 200
+71 0.6550273851893629 atompairs_1024 scaled RFR 4 sqrt 0.2 150
+70 0.6537598359425172 atompairs_1024 scaled RFR 5 log2 0.7 100
+69 0.617071372609945 atompairs_1024 original RFR 3 sqrt 0.8 100
+68 -0.010352090138365355 atompairs_1024 scaled RFR 3 log2 1.0 50
+67 0.6544285511880925 atompairs_1024 scaled RFR 5 log2 0.8 150
+66  atompairs_1024 scaled RFR 4 sqrt 0.7 200
+65 -0.003931762608821332 atompairs_1024 scaled RFR 10 sqrt 1.0 20
+64 0.7606597356221219 atompairs_1024 original RFR 9 sqrt 0.3 100
+63 0.617071372609945 atompairs_1024 scaled RFR 3 sqrt 0.8 100
+62  atompairs_1024 original RFR 8  0.2 150
+61  atompairs_1024 scaled RFR 8  0.8 50
+60 -0.003931762608821332 atompairs_1024 scaled RFR 5 log2 1.0 20
+59 0.7594195852120806 atompairs_1024 scaled RFR 9 sqrt 0.3 50
+58  atompairs_1024 original RFR 9  0.8 200
+57 0.5975564360741712 atompairs_1024 original RFR 4 log2 0.8 100
+56  atompairs_1024 original RFR 9  0.8 200
+55 0.5996841997716444 atompairs_1024 original RFR 4 log2 0.7 20
+54 -0.003931762608821332 atompairs_1024 scaled RFR 7 sqrt 1.0 20
+53 0.524062244659736 atompairs_1024 scaled RFR 3 log2 0.5 50
+52  atompairs_1024 original RFR 8  0.3 150
+51  atompairs_1024 scaled RFR 10  0.8 100
+50 0.7036928639919371 atompairs_1024 original RFR 10 log2 0.2 100
+49  atompairs_1024 scaled RFR 5 sqrt 0.8 200
+48 0.668289450798798 atompairs_1024 original RFR 6 log2 0.3 50
+47 0.5163664692356349 atompairs_1024 original RFR 3 log2 0.2 150
+46 0.6854792867544812 atompairs_1024 scaled RFR 8 log2 0.2 50
+45 0.790940917808066 atompairs_1024 original RFR 10 sqrt 0.5 20
+44 -0.004574399441055865 atompairs_1024 scaled RFR 10  1.0 100
+43  atompairs_1024 original RFR 4  0.7 50
+42 0.6901197694629555 atompairs_1024 original RFR 5 sqrt 0.2 150
+41  atompairs_1024 scaled RFR 8  0.5 150
+40 0.7805558260385774 atompairs_1024 scaled RFR 10 log2 0.8 20
+39 0.7632338993304633 atompairs_1024 scaled RFR 7  0.2 20
+38 0.593750935304326 atompairs_1024 scaled RFR 4 log2 0.5 100
+37 0.7541745633270152 atompairs_1024 scaled RFR 8 log2 0.8 20
+36 0.7641289039030967 atompairs_1024 original RFR 10 sqrt 0.3 200
+35  atompairs_1024 scaled RFR 7  0.2 50
+34 -0.010352090138365355 atompairs_1024 original RFR 10 log2 1.0 50
+33 0.7697467103896533 atompairs_1024 original RFR 7 sqrt 0.5 20
+32 0.6529723036049668 atompairs_1024 original RFR 6 log2 0.2 200
+31 0.6156689747025522 atompairs_1024 scaled RFR 3 sqrt 0.7 150
+30 0.6867071207791149 atompairs_1024 original RFR 8 log2 0.2 100
+29 0.6714735114761243 atompairs_1024 original RFR 6 log2 0.3 150
+28 0.7591052361389357 atompairs_1024 original RFR 6 sqrt 0.7 20
+27 0.5267097205938258 atompairs_1024 scaled RFR 3 log2 0.8 150
+26 0.6533573463170387 atompairs_1024 scaled RFR 4 sqrt 0.2 100
+25 -0.010352090138365355 atompairs_1024 original RFR 9 log2 1.0 50
+24 0.6836699921415452 atompairs_1024 scaled RFR 4 sqrt 0.8 200
+23 -0.010352090138365355 atompairs_1024 original RFR 9 log2 1.0 50
+22 0.7587280554926502 atompairs_1024 scaled RFR 10 log2 0.5 150
+21  atompairs_1024 original RFR 6  0.3 200
+20  atompairs_1024 scaled RFR 6  0.7 100
+19 0.8057155002267012 atompairs_1024 original RFR 10 sqrt 0.7 50
+18 0.7266939864108803 atompairs_1024 scaled RFR 9 log2 0.3 20
+17 0.6544285511880925 atompairs_1024 original RFR 5 log2 0.8 150
+16 0.7778237366098876 atompairs_1024 original RFR 6  0.3 20
+15  atompairs_1024 original RFR 3  0.3 150
+14  atompairs_1024 original RFR 9  0.2 100
+13 -0.004574399441055865 atompairs_1024 original RFR 7 sqrt 1.0 100
+12 0.6563962271979011 atompairs_1024 scaled RFR 6 log2 0.2 20
+11 0.7540389469180522 atompairs_1024 scaled RFR 8 sqrt 0.3 150
+10  atompairs_1024 scaled RFR 9  0.3 100
+9 0.5989389797306561 atompairs_1024 original RFR 4 log2 0.7 50
+8 0.7866926585678488 atompairs_1024 scaled RFR 9 sqrt 0.5 150
+6 -0.004574399441055865 atompairs_1024 scaled RFR 4 sqrt 1.0 100
+5 -0.004574399441055865 atompairs_1024 scaled RFR 4 sqrt 1.0 100
+4 0.7241710380042401 atompairs_1024 scaled RFR 7 log2 0.8 20
+3 0.7241710380042401 atompairs_1024 scaled RFR 7 log2 0.8 20
+2  atompairs_1024 original RFR 6  0.2 150
+1  atompairs_1024 original RFR 6  0.2 150
+0  atompairs_1024 original RFR 6  0.2 150

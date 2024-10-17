@@ -1,0 +1,501 @@
+trial score desc scaling method max_depth max_features max_samples n_estimators
+499 0.6273034387339607 torsion_1024 scaled RFR 7 log2 0.8 200
+498 -0.004289015614272307 torsion_1024 scaled RFR 5 sqrt 1.0 100
+497 0.5402025435274367 torsion_1024 original RFR 6 log2 0.2 150
+496 0.68303145228836 torsion_1024 scaled RFR 6 sqrt 0.5 100
+495 0.6371591085362311 torsion_1024 original RFR 5 sqrt 0.5 150
+494 -0.00952796853240856 torsion_1024 original RFR 7  1.0 20
+493 0.7282621954980044 torsion_1024 scaled RFR 7 sqrt 0.8 50
+492 0.7306590959047354 torsion_1024 original RFR 7 sqrt 0.7 20
+491 -0.0017709550963564968 torsion_1024 scaled RFR 7  1.0 150
+490 0.5188817517323199 torsion_1024 original RFR 5 log2 0.8 20
+489 0.7278901680682128 torsion_1024 original RFR 7 sqrt 0.7 150
+488 0.5760447535837026 torsion_1024 scaled RFR 6 log2 0.8 100
+487 0.6875525353269232 torsion_1024 scaled RFR 10 log2 0.3 50
+486 0.34808418433184896 torsion_1024 scaled RFR 3 log2 0.2 20
+485  torsion_1024 original RFR 7  0.8 50
+484 0.4455792738501754 torsion_1024 scaled RFR 4 log2 0.7 200
+483 0.6231610501081171 torsion_1024 scaled RFR 7 log2 0.7 50
+482 -0.0017709550963564968 torsion_1024 scaled RFR 7 sqrt 1.0 150
+481  torsion_1024 scaled RFR 8  0.8 50
+480 0.5764717324260453 torsion_1024 scaled RFR 4 sqrt 0.8 200
+479 0.666958622408566 torsion_1024 original RFR 6 sqrt 0.3 150
+478 -0.0017709550963564968 torsion_1024 original RFR 10  1.0 150
+477 0.5125908408912759 torsion_1024 scaled RFR 5 log2 0.5 150
+476 0.6987045936672409 torsion_1024 original RFR 7 sqrt 0.3 20
+475 -0.0017709550963564968 torsion_1024 original RFR 9  1.0 150
+474 0.3584925651115748 torsion_1024 original RFR 3 log2 0.8 150
+473 0.500875354378747 torsion_1024 scaled RFR 5 log2 0.3 100
+472 0.7933442733806424 torsion_1024 original RFR 10 sqrt 0.7 20
+471 -0.000713938288205096 torsion_1024 scaled RFR 5  1.0 200
+470 0.6550413012261602 torsion_1024 original RFR 8 log2 0.5 200
+469 0.6846454544209726 torsion_1024 original RFR 9 log2 0.5 50
+468 0.6911272591445909 torsion_1024 original RFR 6 sqrt 0.7 200
+467  torsion_1024 original RFR 6  0.7 200
+466 0.6251699379792545 torsion_1024 original RFR 7 log2 0.7 200
+465  torsion_1024 original RFR 10  0.2 100
+464 0.6610506794829883 torsion_1024 original RFR 10 log2 0.2 20
+463 0.44035250439086526 torsion_1024 original RFR 4 log2 0.5 100
+462 -0.0017709550963564968 torsion_1024 scaled RFR 4 log2 1.0 150
+461  torsion_1024 original RFR 6  0.5 150
+460 0.62353630086688 torsion_1024 original RFR 5 sqrt 0.3 200
+459 0.685234601236453 torsion_1024 scaled RFR 9 log2 0.5 200
+458 0.7005235617720965 torsion_1024 original RFR 7 sqrt 0.3 150
+457 0.7774414812761536 torsion_1024 original RFR 10 sqrt 0.5 50
+456 -0.000713938288205096 torsion_1024 scaled RFR 8 sqrt 1.0 200
+455  torsion_1024 original RFR 5  0.8 200
+454 0.6193281400393795 torsion_1024 scaled RFR 5 sqrt 0.3 20
+453 -0.000713938288205096 torsion_1024 scaled RFR 6  1.0 200
+452 0.6614399649019775 torsion_1024 scaled RFR 3  0.2 50
+451  torsion_1024 scaled RFR 10  0.5 100
+450 -0.005498816034002596 torsion_1024 original RFR 5  1.0 50
+449 0.7996875535733141 torsion_1024 scaled RFR 7  0.5 50
+448 0.5764717324260453 torsion_1024 scaled RFR 4 sqrt 0.8 200
+447 0.6413728820846201 torsion_1024 original RFR 5 sqrt 0.7 200
+446 0.7841011068588999 torsion_1024 scaled RFR 7  0.3 50
+445 0.6896060564408322 torsion_1024 original RFR 6 sqrt 0.7 100
+444 0.5504583331433361 torsion_1024 scaled RFR 4 sqrt 0.2 20
+443 0.47810270662698406 torsion_1024 original RFR 3 sqrt 0.3 50
+442 0.6635802672772457 torsion_1024 scaled RFR 8 log2 0.8 150
+441 0.6914050681265851 torsion_1024 scaled RFR 9 log2 0.7 100
+440 0.6846454544209726 torsion_1024 scaled RFR 9 log2 0.5 50
+439  torsion_1024 scaled RFR 6  0.8 200
+438 0.6635802672772457 torsion_1024 original RFR 8 log2 0.8 150
+437 -0.0017709550963564968 torsion_1024 scaled RFR 6 sqrt 1.0 150
+436 0.4906182718209723 torsion_1024 original RFR 5 log2 0.2 100
+435 -0.000713938288205096 torsion_1024 original RFR 10 log2 1.0 200
+434  torsion_1024 original RFR 6  0.5 200
+433 -0.000713938288205096 torsion_1024 scaled RFR 5 sqrt 1.0 200
+432 0.4698174445579426 torsion_1024 scaled RFR 3 sqrt 0.2 100
+431 -0.005498816034002596 torsion_1024 scaled RFR 7 log2 1.0 50
+430 0.7162987109079436 torsion_1024 original RFR 7 sqrt 0.5 20
+429 0.6350539766306526 torsion_1024 original RFR 8 log2 0.3 100
+428  torsion_1024 scaled RFR 8  0.3 150
+427 -0.005498816034002596 torsion_1024 scaled RFR 3 log2 1.0 50
+426 0.5500321407295407 torsion_1024 original RFR 4 sqrt 0.2 150
+425 0.8173217806648266 torsion_1024 scaled RFR 10  0.5 20
+424 -0.005498816034002596 torsion_1024 scaled RFR 3 log2 1.0 50
+423 -0.000713938288205096 torsion_1024 original RFR 10 log2 1.0 200
+422  torsion_1024 original RFR 9  0.8 50
+421 0.7807694168638855 torsion_1024 original RFR 10 sqrt 0.5 150
+420 0.6251699379792545 torsion_1024 scaled RFR 7 log2 0.7 200
+419  torsion_1024 original RFR 6  0.8 50
+418 0.5189100612257502 torsion_1024 scaled RFR 5 log2 0.8 200
+417  torsion_1024 original RFR 10  0.8 100
+416  torsion_1024 scaled RFR 7  0.8 50
+415 -0.004289015614272307 torsion_1024 scaled RFR 6 log2 1.0 100
+414 0.4861191944042935 torsion_1024 scaled RFR 3 sqrt 0.5 150
+413 0.6371591085362311 torsion_1024 scaled RFR 5 sqrt 0.5 150
+412  torsion_1024 original RFR 10  0.7 50
+411 0.5702261798213227 torsion_1024 scaled RFR 6 log2 0.5 50
+410 0.44471739054313 torsion_1024 scaled RFR 4 log2 0.5 50
+409 0.5707594913281469 torsion_1024 original RFR 6 log2 0.5 20
+408  torsion_1024 scaled RFR 10  0.8 200
+407 0.491054858989347 torsion_1024 scaled RFR 3 sqrt 0.7 20
+406 -0.004289015614272307 torsion_1024 scaled RFR 10 sqrt 1.0 100
+405 0.443017207830974 torsion_1024 original RFR 4 log2 0.5 200
+404 0.5609052454984061 torsion_1024 original RFR 4 sqrt 0.3 50
+403 0.5764717324260453 torsion_1024 original RFR 4 sqrt 0.8 200
+402 -0.00952796853240856 torsion_1024 scaled RFR 4 sqrt 1.0 20
+401 0.7192902447779818 torsion_1024 scaled RFR 4  0.7 50
+400  torsion_1024 scaled RFR 9  0.8 150
+399 0.6903776712048433 torsion_1024 original RFR 6 sqrt 0.8 50
+398 0.7449504815359393 torsion_1024 scaled RFR 8 sqrt 0.5 50
+397 -0.005498816034002596 torsion_1024 scaled RFR 6 log2 1.0 50
+396 0.5763464271844783 torsion_1024 scaled RFR 4 sqrt 0.8 50
+395  torsion_1024 scaled RFR 9  0.3 100
+394  torsion_1024 scaled RFR 7  0.5 200
+393 -0.00952796853240856 torsion_1024 scaled RFR 7  1.0 20
+392 0.7707573843216176 torsion_1024 scaled RFR 8  0.2 50
+391  torsion_1024 scaled RFR 8  0.3 200
+390 -0.00952796853240856 torsion_1024 original RFR 5 log2 1.0 20
+389 0.6371591085362311 torsion_1024 scaled RFR 5 sqrt 0.5 150
+388 -0.00952796853240856 torsion_1024 scaled RFR 6 log2 1.0 20
+387 0.7201936633154203 torsion_1024 original RFR 4  0.8 20
+386 -0.00952796853240856 torsion_1024 original RFR 6 sqrt 1.0 20
+385 -0.0017709550963564968 torsion_1024 scaled RFR 4 sqrt 1.0 150
+384 0.7448513196126294 torsion_1024 original RFR 8 sqrt 0.5 20
+383  torsion_1024 original RFR 6  0.3 200
+382 0.6824968498582193 torsion_1024 scaled RFR 9 log2 0.5 20
+381  torsion_1024 scaled RFR 9 sqrt 0.5 200
+380  torsion_1024 original RFR 10  0.8 50
+379  torsion_1024 original RFR 7  0.8 150
+378  torsion_1024 original RFR 4  0.7 150
+377 0.6422787655279196 torsion_1024 scaled RFR 5 sqrt 0.8 20
+376 -0.004289015614272307 torsion_1024 scaled RFR 3 log2 1.0 100
+375  torsion_1024 original RFR 7  0.7 150
+374 0.764654435373035 torsion_1024 scaled RFR 7  0.2 20
+373 0.6914050681265851 torsion_1024 original RFR 9 log2 0.7 100
+372 -0.005498816034002596 torsion_1024 original RFR 3 log2 1.0 50
+371  torsion_1024 scaled RFR 10 sqrt 0.7 200
+370 0.6986274209778331 torsion_1024 scaled RFR 8 sqrt 0.2 100
+369 0.7798530335492987 torsion_1024 original RFR 9 sqrt 0.8 20
+368  torsion_1024 scaled RFR 9  0.2 150
+367 0.7376018028223006 torsion_1024 scaled RFR 5  0.2 20
+366 -0.0017709550963564968 torsion_1024 original RFR 4 sqrt 1.0 150
+365 -0.000713938288205096 torsion_1024 original RFR 10 sqrt 1.0 200
+364  torsion_1024 original RFR 6  0.2 200
+363 0.7273672895811312 torsion_1024 scaled RFR 7 sqrt 0.7 50
+362  torsion_1024 original RFR 6 sqrt 0.7 200
+361 0.7727307651412866 torsion_1024 scaled RFR 10  0.2 20
+360 0.7924897854788996 torsion_1024 scaled RFR 6  0.8 20
+359 0.7080027494411285 torsion_1024 scaled RFR 10 log2 0.5 20
+358 0.8173757757004471 torsion_1024 scaled RFR 8  0.7 20
+357  torsion_1024 scaled RFR 7 log2 0.7 200
+356 0.7569598797045802 torsion_1024 scaled RFR 8 sqrt 0.8 50
+355 0.48442904045032775 torsion_1024 original RFR 3 sqrt 0.7 50
+354  torsion_1024 scaled RFR 3  0.2 150
+353 0.772251647190014 torsion_1024 original RFR 6  0.3 50
+352 -0.0017709550963564968 torsion_1024 original RFR 3  1.0 150
+351  torsion_1024 scaled RFR 4  0.8 100
+350 0.7080027494411285 torsion_1024 scaled RFR 10 log2 0.5 20
+349 0.35532072877734777 torsion_1024 original RFR 3 log2 0.3 50
+348 -0.0017709550963564968 torsion_1024 scaled RFR 9 log2 1.0 150
+347 0.5451238100388686 torsion_1024 scaled RFR 6 log2 0.2 50
+346 -0.000713938288205096 torsion_1024 scaled RFR 5 log2 1.0 200
+345 -0.0017709550963564968 torsion_1024 scaled RFR 6 sqrt 1.0 150
+344 0.470394704158431 torsion_1024 scaled RFR 3 sqrt 0.2 200
+343 0.6483395517658455 torsion_1024 original RFR 6 sqrt 0.2 150
+342  torsion_1024 original RFR 7  0.2 150
+341 0.47825707925936367 torsion_1024 original RFR 3 sqrt 0.3 100
+340 0.5451238100388686 torsion_1024 original RFR 6 log2 0.2 50
+339 0.6596687676608879 torsion_1024 original RFR 8 log2 0.7 100
+338 0.44438500366158695 torsion_1024 scaled RFR 4 log2 0.7 100
+337 0.6133856887799758 torsion_1024 scaled RFR 8 log2 0.2 150
+336 -0.0017709550963564968 torsion_1024 scaled RFR 10  1.0 150
+335  torsion_1024 scaled RFR 4  0.3 100
+334 -0.0017709550963564968 torsion_1024 original RFR 8 log2 1.0 150
+333 0.6351671231093247 torsion_1024 scaled RFR 5 sqrt 0.5 100
+332 -0.004289015614272307 torsion_1024 scaled RFR 6  1.0 100
+331 0.5607071870043956 torsion_1024 scaled RFR 4 sqrt 0.3 100
+330 0.5568284437552802 torsion_1024 scaled RFR 4 sqrt 0.3 20
+329  torsion_1024 scaled RFR 10  0.5 200
+328 0.44548557858649596 torsion_1024 scaled RFR 4 log2 0.8 100
+327 0.6494521881179195 torsion_1024 original RFR 6 sqrt 0.2 200
+326 0.6006697048391453 torsion_1024 original RFR 7 log2 0.3 150
+325  torsion_1024 original RFR 8  0.8 200
+324 0.5782563102322233 torsion_1024 original RFR 6 log2 0.8 20
+323 0.6915921251320267 torsion_1024 original RFR 6 sqrt 0.7 150
+322 0.6272546616389743 torsion_1024 scaled RFR 7 log2 0.8 20
+321  torsion_1024 scaled RFR 9  0.3 150
+320 0.7784696591172298 torsion_1024 scaled RFR 9 sqrt 0.7 20
+319 0.6448068247285643 torsion_1024 scaled RFR 9 log2 0.2 20
+318 0.7439103910221104 torsion_1024 scaled RFR 8 sqrt 0.5 100
+317 0.3572145984052678 torsion_1024 original RFR 3 log2 0.5 100
+316 0.5114975325394888 torsion_1024 original RFR 5 log2 0.5 100
+315 0.7077017124051861 torsion_1024 scaled RFR 4  0.2 20
+314 0.6154968780242976 torsion_1024 scaled RFR 7 log2 0.5 100
+313 0.5621356259765733 torsion_1024 scaled RFR 4 sqrt 0.3 200
+312 0.4876928930807011 torsion_1024 scaled RFR 3 sqrt 0.7 200
+311 0.807109032311376 torsion_1024 scaled RFR 8  0.5 20
+310  torsion_1024 original RFR 9 sqrt 0.3 200
+309 0.7245193049968718 torsion_1024 scaled RFR 8 sqrt 0.3 20
+308 0.7162987109079436 torsion_1024 original RFR 7 sqrt 0.5 20
+307  torsion_1024 scaled RFR 5  0.5 150
+306  torsion_1024 scaled RFR 3  0.8 100
+305 -0.000713938288205096 torsion_1024 original RFR 5 log2 1.0 200
+304  torsion_1024 original RFR 8  0.8 100
+303  torsion_1024 scaled RFR 4  0.5 200
+302 -0.0017709550963564968 torsion_1024 original RFR 9  1.0 150
+301 0.6414255316890602 torsion_1024 scaled RFR 9 log2 0.2 200
+300 0.4860709196514468 torsion_1024 scaled RFR 3 sqrt 0.7 100
+299 -0.0017709550963564968 torsion_1024 original RFR 3  1.0 150
+298 0.7151745252341668 torsion_1024 scaled RFR 9 sqrt 0.2 50
+297 0.4255553020241003 torsion_1024 scaled RFR 4 log2 0.2 100
+296 -0.005498816034002596 torsion_1024 scaled RFR 10 sqrt 1.0 50
+295 -0.004289015614272307 torsion_1024 original RFR 7 log2 1.0 100
+294 0.7282621954980044 torsion_1024 scaled RFR 7 sqrt 0.8 50
+293 0.7376018028223006 torsion_1024 original RFR 5  0.2 20
+292 0.6657979846318485 torsion_1024 original RFR 8 log2 0.7 50
+291 0.6637459745247732 torsion_1024 scaled RFR 8 log2 0.8 100
+290 -0.00952796853240856 torsion_1024 original RFR 4 log2 1.0 20
+289 0.4279548438119215 torsion_1024 original RFR 4 log2 0.2 20
+288 0.3584925651115748 torsion_1024 scaled RFR 3 log2 0.8 150
+287 0.5708255893846811 torsion_1024 original RFR 6 log2 0.5 200
+286 0.3609409751217969 torsion_1024 scaled RFR 3 log2 0.5 50
+285  torsion_1024 scaled RFR 4  0.5 150
+284 0.5575437911853249 torsion_1024 scaled RFR 6 log2 0.3 200
+283 -0.0017709550963564968 torsion_1024 original RFR 10  1.0 150
+282  torsion_1024 original RFR 7  0.5 100
+281 0.5142042488638761 torsion_1024 scaled RFR 5 log2 0.7 100
+280  torsion_1024 scaled RFR 4  0.5 200
+279 0.6832490617255318 torsion_1024 scaled RFR 6 sqrt 0.5 50
+278 0.6948284365994191 torsion_1024 scaled RFR 9 log2 0.8 100
+277 0.48938803938750186 torsion_1024 original RFR 3 sqrt 0.8 150
+276  torsion_1024 scaled RFR 7  0.3 150
+275 0.7654968921206846 torsion_1024 original RFR 9 sqrt 0.5 150
+274 -0.000713938288205096 torsion_1024 scaled RFR 8 log2 1.0 200
+273 0.5825760225428436 torsion_1024 original RFR 7 log2 0.2 100
+272 0.6416895299739944 torsion_1024 original RFR 5 sqrt 0.7 20
+271 0.47756238862988987 torsion_1024 original RFR 3 sqrt 0.3 20
+270  torsion_1024 original RFR 5  0.2 150
+269 0.6681979838640906 torsion_1024 original RFR 8 log2 0.8 50
+268  torsion_1024 original RFR 4  0.3 200
+267 -0.00952796853240856 torsion_1024 original RFR 10 sqrt 1.0 20
+266 0.4717693199735049 torsion_1024 scaled RFR 3 sqrt 0.2 150
+265 0.6056911124520623 torsion_1024 scaled RFR 5 sqrt 0.2 100
+264 0.5477341035758105 torsion_1024 scaled RFR 4 sqrt 0.2 100
+263  torsion_1024 original RFR 10  0.5 200
+262 0.755102017938342 torsion_1024 original RFR 10 sqrt 0.3 20
+261 0.6846454544209726 torsion_1024 scaled RFR 9 log2 0.5 50
+260 0.4698174445579426 torsion_1024 original RFR 3 sqrt 0.2 100
+259  torsion_1024 original RFR 4  0.2 150
+258 0.5609052454984061 torsion_1024 original RFR 4 sqrt 0.3 50
+257 0.7063988569414279 torsion_1024 original RFR 10 log2 0.5 150
+256 0.6637825278219596 torsion_1024 scaled RFR 6 sqrt 0.3 20
+255 0.5164761376561651 torsion_1024 scaled RFR 5 log2 0.8 150
+254  torsion_1024 scaled RFR 5 log2 0.8 200
+253 0.35693653116924584 torsion_1024 original RFR 3 log2 0.5 20
+252 -0.00952796853240856 torsion_1024 scaled RFR 4 sqrt 1.0 20
+251  torsion_1024 scaled RFR 6  0.3 150
+250 0.4675944978790024 torsion_1024 original RFR 3 sqrt 0.2 50
+249  torsion_1024 scaled RFR 10  0.2 100
+248  torsion_1024 scaled RFR 7  0.5 50
+247  torsion_1024 scaled RFR 6  0.5 50
+246 0.6844388268671308 torsion_1024 scaled RFR 9 log2 0.5 100
+245 0.6681979838640906 torsion_1024 scaled RFR 8 log2 0.8 50
+244 0.7748659751908217 torsion_1024 original RFR 9 sqrt 0.7 100
+243 -0.005498816034002596 torsion_1024 original RFR 6 sqrt 1.0 50
+242 0.7151745252341668 torsion_1024 original RFR 9 sqrt 0.2 50
+241 0.7260261068470584 torsion_1024 scaled RFR 10 sqrt 0.2 150
+240 0.4675944978790024 torsion_1024 scaled RFR 3 sqrt 0.2 50
+239 0.7005235617720965 torsion_1024 original RFR 7 sqrt 0.3 150
+238 -0.004289015614272307 torsion_1024 scaled RFR 9 log2 1.0 100
+237 0.3572145984052678 torsion_1024 original RFR 3 log2 0.5 100
+236 0.6603961987312035 torsion_1024 scaled RFR 3  0.3 50
+235 0.6474337274664999 torsion_1024 scaled RFR 3  0.8 50
+234 0.7650981067208817 torsion_1024 original RFR 9 sqrt 0.5 20
+233 0.7414567381381181 torsion_1024 scaled RFR 9 sqrt 0.3 20
+232 0.7162987109079436 torsion_1024 original RFR 7 sqrt 0.5 20
+231  torsion_1024 scaled RFR 8 sqrt 0.7 200
+230 0.825537282255577 torsion_1024 scaled RFR 9  0.7 20
+229  torsion_1024 original RFR 8  0.5 200
+228  torsion_1024 scaled RFR 10  0.7 150
+227 0.6222501444618656 torsion_1024 scaled RFR 5 sqrt 0.3 50
+226 0.6987045936672409 torsion_1024 scaled RFR 7 sqrt 0.3 20
+225 0.6638431671375766 torsion_1024 original RFR 9 log2 0.3 20
+224  torsion_1024 original RFR 9  0.3 150
+223  torsion_1024 scaled RFR 8  0.8 150
+222  torsion_1024 scaled RFR 4  0.8 150
+221 -0.005498816034002596 torsion_1024 original RFR 6  1.0 50
+220 -0.000713938288205096 torsion_1024 scaled RFR 6 log2 1.0 200
+219 0.6638431671375766 torsion_1024 original RFR 9 log2 0.3 20
+218  torsion_1024 original RFR 9 log2 0.7 200
+217 0.5546720551721227 torsion_1024 original RFR 6 log2 0.3 100
+216 0.5601350378023061 torsion_1024 original RFR 6 log2 0.3 50
+215 0.470394704158431 torsion_1024 scaled RFR 3 sqrt 0.2 200
+214 0.5156310651566061 torsion_1024 scaled RFR 5 log2 0.7 150
+213 0.5142042488638761 torsion_1024 original RFR 5 log2 0.7 100
+212 0.34808418433184896 torsion_1024 original RFR 3 log2 0.2 20
+211 0.7746275563135558 torsion_1024 scaled RFR 9 sqrt 0.7 50
+210 0.4455792738501754 torsion_1024 scaled RFR 4 log2 0.7 200
+209 0.6775665821220929 torsion_1024 scaled RFR 7 sqrt 0.2 150
+208 0.6637825278219596 torsion_1024 original RFR 6 sqrt 0.3 20
+207 0.7573810761562387 torsion_1024 scaled RFR 8 sqrt 0.8 100
+206 0.42868920863095594 torsion_1024 original RFR 4 log2 0.2 150
+205 0.7690198867625155 torsion_1024 scaled RFR 6  0.3 20
+204 0.5499879555956979 torsion_1024 scaled RFR 4 sqrt 0.2 200
+203 0.6474337274664999 torsion_1024 scaled RFR 3  0.8 50
+202 -0.004289015614272307 torsion_1024 scaled RFR 7  1.0 100
+201 0.44035250439086526 torsion_1024 original RFR 4 log2 0.5 100
+200 0.5499879555956979 torsion_1024 scaled RFR 4 sqrt 0.2 200
+199 0.49064544982591196 torsion_1024 scaled RFR 5 log2 0.2 200
+198 0.6452332644762342 torsion_1024 original RFR 6 sqrt 0.2 20
+197 -0.00952796853240856 torsion_1024 original RFR 8 log2 1.0 20
+196 -0.000713938288205096 torsion_1024 scaled RFR 4 log2 1.0 200
+195 0.5739485913156703 torsion_1024 scaled RFR 4 sqrt 0.7 50
+194 0.4442226440576239 torsion_1024 original RFR 4 log2 0.8 150
+193 0.657890538777826 torsion_1024 scaled RFR 3  0.5 20
+192 0.6927582247226685 torsion_1024 original RFR 6 sqrt 0.8 100
+191 0.7777161631469286 torsion_1024 original RFR 10  0.2 50
+190 -0.00952796853240856 torsion_1024 original RFR 7  1.0 20
+189 -0.005498816034002596 torsion_1024 original RFR 8  1.0 50
+188 -0.00952796853240856 torsion_1024 original RFR 8 sqrt 1.0 20
+187  torsion_1024 scaled RFR 10 sqrt 0.7 200
+186 -0.005498816034002596 torsion_1024 scaled RFR 6 log2 1.0 50
+185 0.7641514505024651 torsion_1024 scaled RFR 9 sqrt 0.5 50
+184  torsion_1024 original RFR 8  0.3 150
+183 0.7918698395610732 torsion_1024 scaled RFR 8  0.3 50
+182 0.5156310651566061 torsion_1024 scaled RFR 5 log2 0.7 150
+181 0.5141376473095176 torsion_1024 scaled RFR 5 log2 0.5 20
+180 -0.0017709550963564968 torsion_1024 original RFR 5 sqrt 1.0 150
+179 0.4485032882943978 torsion_1024 original RFR 4 log2 0.8 50
+178  torsion_1024 scaled RFR 9  0.7 150
+177  torsion_1024 original RFR 5  0.2 200
+176 0.6775665821220929 torsion_1024 original RFR 7 sqrt 0.2 150
+175 0.5765683614028494 torsion_1024 original RFR 4 sqrt 0.8 150
+174 0.3627124728209732 torsion_1024 scaled RFR 3 log2 0.8 50
+173 -0.0017709550963564968 torsion_1024 scaled RFR 4 log2 1.0 150
+172 -0.000713938288205096 torsion_1024 scaled RFR 6 sqrt 1.0 200
+171 0.7160784137042178 torsion_1024 scaled RFR 10 log2 0.7 20
+170 0.6803084514344107 torsion_1024 original RFR 10 log2 0.3 20
+169 -0.004289015614272307 torsion_1024 scaled RFR 9 sqrt 1.0 100
+168  torsion_1024 scaled RFR 3  0.8 150
+167 0.6374533701071867 torsion_1024 original RFR 8 log2 0.3 50
+166 0.7226125792954737 torsion_1024 scaled RFR 8 sqrt 0.3 100
+165 0.4442226440576239 torsion_1024 original RFR 4 log2 0.8 150
+164  torsion_1024 scaled RFR 6  0.8 150
+163 0.6374533701071867 torsion_1024 original RFR 8 log2 0.3 50
+162  torsion_1024 scaled RFR 8 sqrt 0.3 200
+161  torsion_1024 scaled RFR 8 log2 0.5 200
+160 0.763297021314971 torsion_1024 scaled RFR 9 sqrt 0.5 100
+159 0.8173757757004471 torsion_1024 scaled RFR 8  0.7 20
+158 0.3608072618497894 torsion_1024 original RFR 3 log2 0.8 20
+157  torsion_1024 original RFR 5  0.7 200
+156 0.34870360932906364 torsion_1024 scaled RFR 3 log2 0.2 100
+155 0.7219507246725911 torsion_1024 original RFR 8 sqrt 0.3 50
+154  torsion_1024 scaled RFR 8 log2 0.7 200
+153  torsion_1024 original RFR 9 sqrt 0.3 200
+152 0.48302205725900804 torsion_1024 scaled RFR 3 sqrt 0.5 100
+151 0.5763464271844783 torsion_1024 original RFR 4 sqrt 0.8 50
+150 0.6414375513415107 torsion_1024 original RFR 9 log2 0.2 50
+149 0.5471525184903039 torsion_1024 scaled RFR 4 sqrt 0.2 50
+148 0.6256961372029044 torsion_1024 original RFR 7 log2 0.8 50
+147 0.6986274209778331 torsion_1024 scaled RFR 8 sqrt 0.2 100
+146  torsion_1024 scaled RFR 4  0.2 150
+145 0.7805426898489477 torsion_1024 scaled RFR 6  0.5 20
+144  torsion_1024 scaled RFR 4  0.7 200
+143 0.7654968921206846 torsion_1024 scaled RFR 9 sqrt 0.5 150
+142 0.5175329731435973 torsion_1024 scaled RFR 5 log2 0.7 50
+141 0.7555018609598296 torsion_1024 scaled RFR 8 sqrt 0.7 50
+140  torsion_1024 scaled RFR 6  0.5 150
+139 0.5451357532322381 torsion_1024 scaled RFR 6 log2 0.2 20
+138  torsion_1024 original RFR 8  0.7 200
+137 -0.000713938288205096 torsion_1024 original RFR 9 sqrt 1.0 200
+136 0.7237611840298869 torsion_1024 original RFR 10 sqrt 0.2 20
+135 0.42849276047011875 torsion_1024 original RFR 4 log2 0.2 200
+134 0.6448068247285643 torsion_1024 original RFR 9 log2 0.2 20
+133 0.6580608074651784 torsion_1024 original RFR 3  0.2 20
+132  torsion_1024 scaled RFR 5  0.3 100
+131 0.5849075868439827 torsion_1024 scaled RFR 7 log2 0.2 20
+130 0.720285118875003 torsion_1024 original RFR 10 log2 0.7 50
+129 0.5125908408912759 torsion_1024 scaled RFR 5 log2 0.5 150
+128 0.5504583331433361 torsion_1024 scaled RFR 4 sqrt 0.2 20
+127 0.5575437911853249 torsion_1024 original RFR 6 log2 0.3 200
+126  torsion_1024 original RFR 10  0.8 200
+125  torsion_1024 original RFR 5  0.2 150
+124 -0.0017709550963564968 torsion_1024 original RFR 5 sqrt 1.0 150
+123 0.6056911124520623 torsion_1024 original RFR 5 sqrt 0.2 100
+122 0.7297427991198534 torsion_1024 original RFR 7 sqrt 0.8 100
+121  torsion_1024 scaled RFR 10 sqrt 0.7 150
+120 -0.00952796853240856 torsion_1024 original RFR 10 log2 1.0 20
+119 0.7937999367077528 torsion_1024 scaled RFR 9  0.3 20
+118 0.7221024389645516 torsion_1024 scaled RFR 4  0.5 50
+117  torsion_1024 scaled RFR 9 sqrt 0.2 200
+116 0.6989515209800616 torsion_1024 original RFR 9 log2 0.8 50
+115 0.7727307651412866 torsion_1024 scaled RFR 10  0.2 20
+114  torsion_1024 original RFR 8 sqrt 0.3 200
+113  torsion_1024 original RFR 3  0.8 200
+112 0.44466536300283543 torsion_1024 original RFR 4 log2 0.7 150
+111 0.34974919754678757 torsion_1024 original RFR 3 log2 0.2 50
+110 0.6394392162964458 torsion_1024 scaled RFR 5 sqrt 0.7 100
+109  torsion_1024 scaled RFR 6  0.3 200
+108 0.8226732715544044 torsion_1024 scaled RFR 8  0.8 20
+107 -0.00952796853240856 torsion_1024 scaled RFR 3 sqrt 1.0 20
+106 0.34808418433184896 torsion_1024 original RFR 3 log2 0.2 20
+105 0.47756238862988987 torsion_1024 original RFR 3 sqrt 0.3 20
+104 -0.004289015614272307 torsion_1024 original RFR 5 sqrt 1.0 100
+103  torsion_1024 scaled RFR 7 sqrt 0.8 200
+102 0.5749513612805619 torsion_1024 original RFR 6 log2 0.8 150
+101  torsion_1024 original RFR 10 log2 0.5 200
+100 0.4279548438119215 torsion_1024 original RFR 4 log2 0.2 20
+99 0.7527256769629609 torsion_1024 original RFR 5  0.3 50
+98 0.8173217806648266 torsion_1024 original RFR 10  0.5 20
+97  torsion_1024 scaled RFR 6 sqrt 0.7 200
+96  torsion_1024 original RFR 8  0.8 100
+95  torsion_1024 original RFR 7  0.7 150
+94 0.6995958359976879 torsion_1024 original RFR 8 sqrt 0.2 50
+93  torsion_1024 original RFR 6  0.3 100
+92 -0.0017709550963564968 torsion_1024 scaled RFR 10  1.0 150
+91 -0.000713938288205096 torsion_1024 original RFR 6  1.0 200
+90 0.7069937175170027 torsion_1024 scaled RFR 10 log2 0.5 100
+89 0.6769587118404632 torsion_1024 scaled RFR 7 sqrt 0.2 100
+88 -0.005498816034002596 torsion_1024 original RFR 4 sqrt 1.0 50
+87 -0.005498816034002596 torsion_1024 scaled RFR 7 log2 1.0 50
+86 0.36359304352154753 torsion_1024 original RFR 3 log2 0.7 50
+85  torsion_1024 scaled RFR 10  0.2 200
+84 0.5769764773524264 torsion_1024 original RFR 6 log2 0.7 20
+83 0.445662395398732 torsion_1024 scaled RFR 4 log2 0.5 20
+82  torsion_1024 original RFR 9 sqrt 0.8 200
+81 0.5837386970320436 torsion_1024 original RFR 7 log2 0.2 200
+80  torsion_1024 scaled RFR 8  0.7 50
+79 0.7798530335492987 torsion_1024 scaled RFR 9 sqrt 0.8 20
+78 0.7777161631469286 torsion_1024 original RFR 10  0.2 50
+77 0.7449504815359393 torsion_1024 scaled RFR 8 sqrt 0.5 50
+76 -0.004289015614272307 torsion_1024 original RFR 6  1.0 100
+75  torsion_1024 scaled RFR 6  0.5 150
+74 0.6995958359976879 torsion_1024 scaled RFR 8 sqrt 0.2 50
+73 0.8320842969178565 torsion_1024 scaled RFR 10  0.7 20
+72  torsion_1024 scaled RFR 3  0.3 200
+71 0.5849075868439827 torsion_1024 scaled RFR 7 log2 0.2 20
+70  torsion_1024 original RFR 9 sqrt 0.5 200
+69  torsion_1024 original RFR 10 sqrt 0.7 150
+68 0.7204654223616137 torsion_1024 scaled RFR 4  0.7 20
+67  torsion_1024 scaled RFR 7  0.8 50
+66 -0.0017709550963564968 torsion_1024 original RFR 5 log2 1.0 150
+65 0.7303478838424702 torsion_1024 scaled RFR 7 sqrt 0.8 150
+64 -0.005498816034002596 torsion_1024 original RFR 9 log2 1.0 50
+63 0.6142523847598189 torsion_1024 scaled RFR 8 log2 0.2 100
+62 0.4698174445579426 torsion_1024 scaled RFR 3 sqrt 0.2 100
+61 0.7580359202354782 torsion_1024 scaled RFR 8 sqrt 0.8 150
+60 0.7273274440490018 torsion_1024 original RFR 10 sqrt 0.2 200
+59 0.4455792738501754 torsion_1024 original RFR 4 log2 0.7 200
+58 0.6836128295111744 torsion_1024 original RFR 10 log2 0.3 150
+57 0.47756238862988987 torsion_1024 original RFR 3 sqrt 0.3 20
+56 0.5764717324260453 torsion_1024 original RFR 4 sqrt 0.8 200
+55 0.5837386970320436 torsion_1024 original RFR 7 log2 0.2 200
+54 -0.004289015614272307 torsion_1024 original RFR 4 log2 1.0 100
+53 -0.005498816034002596 torsion_1024 scaled RFR 8 log2 1.0 50
+52 0.6416762104690934 torsion_1024 original RFR 5 sqrt 0.8 50
+51 0.6846810444496736 torsion_1024 original RFR 10 log2 0.3 100
+50 0.71202814939031 torsion_1024 original RFR 4  0.2 50
+49 0.6435472043810608 torsion_1024 scaled RFR 5 sqrt 0.8 100
+48 0.6803084514344107 torsion_1024 scaled RFR 10 log2 0.3 20
+47 -0.004289015614272307 torsion_1024 original RFR 3  1.0 100
+46 0.71202814939031 torsion_1024 scaled RFR 4  0.2 50
+45 0.7297427991198534 torsion_1024 original RFR 7 sqrt 0.8 100
+44 0.6483395517658455 torsion_1024 original RFR 6 sqrt 0.2 150
+43 -0.0017709550963564968 torsion_1024 scaled RFR 8  1.0 150
+42  torsion_1024 scaled RFR 6  0.2 150
+41  torsion_1024 original RFR 4 sqrt 0.8 200
+40 0.3540353644388655 torsion_1024 scaled RFR 3 log2 0.3 150
+39 0.4442226440576239 torsion_1024 scaled RFR 4 log2 0.8 150
+38 0.5471525184903039 torsion_1024 scaled RFR 4 sqrt 0.2 50
+37  torsion_1024 original RFR 8 sqrt 0.8 200
+36  torsion_1024 scaled RFR 7  0.5 50
+35 -0.005498816034002596 torsion_1024 scaled RFR 3  1.0 50
+34 0.5156310651566061 torsion_1024 scaled RFR 5 log2 0.7 150
+33 0.68303145228836 torsion_1024 scaled RFR 6 sqrt 0.5 100
+32 0.720758213541417 torsion_1024 original RFR 10 log2 0.8 100
+31  torsion_1024 scaled RFR 8  0.3 150
+30 -0.00952796853240856 torsion_1024 scaled RFR 7 sqrt 1.0 20
+29 0.7964648153229568 torsion_1024 original RFR 7  0.5 20
+28 0.7403306683301132 torsion_1024 original RFR 5  0.2 50
+27 0.633758593203751 torsion_1024 scaled RFR 5 sqrt 0.5 50
+26 0.5451238100388686 torsion_1024 scaled RFR 6 log2 0.2 50
+25  torsion_1024 original RFR 9 log2 0.7 200
+24 -0.000713938288205096 torsion_1024 original RFR 3 sqrt 1.0 200
+23  torsion_1024 original RFR 7 sqrt 0.3 200
+22 -0.000713938288205096 torsion_1024 scaled RFR 4  1.0 200
+21  torsion_1024 original RFR 3  0.3 200
+20 0.6414375513415107 torsion_1024 scaled RFR 9 log2 0.2 50
+19  torsion_1024 original RFR 9  0.8 50
+18 0.7918698395610732 torsion_1024 scaled RFR 8  0.3 50
+17 0.448459661152541 torsion_1024 original RFR 4 log2 0.7 20
+16 0.4909466360210203 torsion_1024 original RFR 5 log2 0.2 150
+15 0.7534676270152623 torsion_1024 scaled RFR 10 sqrt 0.3 100
+14 -0.000713938288205096 torsion_1024 scaled RFR 3 sqrt 1.0 200
+13 -0.00952796853240856 torsion_1024 scaled RFR 4 log2 1.0 20
+12 0.606723071632347 torsion_1024 scaled RFR 5 sqrt 0.2 200
+11 0.7534676270152623 torsion_1024 scaled RFR 10 sqrt 0.3 100
+10  torsion_1024 scaled RFR 3  0.5 200
+9 0.6414255316890602 torsion_1024 scaled RFR 9 log2 0.2 200
+8 0.6414255316890602 torsion_1024 scaled RFR 9 log2 0.2 200
+7 0.6414255316890602 torsion_1024 scaled RFR 9 log2 0.2 200
+6 0.6414255316890602 torsion_1024 scaled RFR 9 log2 0.2 200
+5 0.6414255316890602 torsion_1024 scaled RFR 9 log2 0.2 200
+4 0.6414255316890602 torsion_1024 scaled RFR 9 log2 0.2 200
+3 0.6414255316890602 torsion_1024 scaled RFR 9 log2 0.2 200
+2 0.6414255316890602 torsion_1024 scaled RFR 9 log2 0.2 200
+1 0.6414255316890602 torsion_1024 scaled RFR 9 log2 0.2 200
+0 0.6414255316890602 torsion_1024 scaled RFR 9 log2 0.2 200

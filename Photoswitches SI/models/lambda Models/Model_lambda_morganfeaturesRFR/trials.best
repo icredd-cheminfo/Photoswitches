@@ -1,0 +1,51 @@
+trial score desc scaling method max_depth max_features max_samples n_estimators
+249 0.8458498267637279 morganfeatures_1024_3 scaled RFR 8  0.7 20
+308 0.8448461724910612 morganfeatures_1024_2 original RFR 10  0.5 20
+61 0.841759366769339 morganfeatures_1024_2 original RFR 9  0.5 50
+413 0.8413147930275557 morganfeatures_1024_2 original RFR 9  0.5 20
+449 0.8413147930275557 morganfeatures_1024_2 original RFR 9  0.5 20
+39 0.8385443571700477 morganfeatures_1024_2 scaled RFR 9  0.5 100
+363 0.8353511005122778 morganfeatures_1024_2 original RFR 8  0.5 20
+443 0.8337170933006043 morganfeatures_1024_3 original RFR 7  0.8 20
+13 0.8330382589624341 morganfeatures_1024_4 scaled RFR 10  0.5 50
+277 0.8300196586908695 morganfeatures_1024_4 scaled RFR 9  0.5 20
+264 0.8300196586908695 morganfeatures_1024_4 original RFR 9  0.5 20
+101 0.8191752451012212 morganfeatures_1024_2 original RFR 6  0.8 20
+484 0.8182950551886198 morganfeatures_1024_2 scaled RFR 10  0.3 50
+342 0.8141230484790963 morganfeatures_1024_2 scaled RFR 6  0.7 20
+365 0.8065823515818896 morganfeatures_1024_3 scaled RFR 9  0.3 20
+286 0.8060326334620345 morganfeatures_1024_2 original RFR 8  0.3 20
+69 0.8056902024750869 morganfeatures_1024_2 original RFR 6  0.5 20
+306 0.8056902024750869 morganfeatures_1024_2 scaled RFR 6  0.5 20
+396 0.8010212006989614 morganfeatures_1024_3 scaled RFR 8  0.3 20
+16 0.7905614064115608 morganfeatures_1024_3 original RFR 7  0.3 20
+147 0.7905614064115608 morganfeatures_1024_3 original RFR 7  0.3 20
+89 0.7863630220235065 morganfeatures_1024_4 original RFR 8  0.3 20
+266 0.7839500525350185 morganfeatures_1024_2 scaled RFR 10 sqrt 0.8 50
+310 0.781558218217828 morganfeatures_1024_2 scaled RFR 5  0.8 20
+445 0.7804857129389686 morganfeatures_1024_2 original RFR 10 sqrt 0.7 20
+446 0.765140496386578 morganfeatures_1024_3 scaled RFR 10 sqrt 0.8 100
+466 0.7603567246867267 morganfeatures_1024_2 original RFR 9 sqrt 0.8 20
+124 0.7594988188036184 morganfeatures_1024_3 scaled RFR 5  0.5 20
+448 0.7591501496181728 morganfeatures_1024_3 original RFR 7  0.2 50
+21 0.7591501496181728 morganfeatures_1024_3 scaled RFR 7  0.2 50
+187 0.7585065080262539 morganfeatures_1024_4 scaled RFR 9  0.2 20
+2 0.7531960262161486 morganfeatures_1024_4 original RFR 8  0.2 20
+142 0.7531960262161486 morganfeatures_1024_4 scaled RFR 8  0.2 20
+115 0.750747510838226 morganfeatures_1024_4 original RFR 10 sqrt 0.7 20
+270 0.7430900669820719 morganfeatures_1024_3 scaled RFR 6  0.2 50
+64 0.7380386990561757 morganfeatures_1024_4 original RFR 10 sqrt 0.5 20
+481 0.7312710997308297 morganfeatures_1024_3 scaled RFR 9 sqrt 0.5 20
+19 0.7296785172418655 morganfeatures_1024_2 original RFR 8 sqrt 0.7 150
+328 0.7296785172418655 morganfeatures_1024_2 original RFR 8 sqrt 0.7 150
+262 0.7296785172418655 morganfeatures_1024_2 scaled RFR 8 sqrt 0.7 150
+240 0.7296785172418655 morganfeatures_1024_2 original RFR 8 sqrt 0.7 150
+189 0.7291533862426884 morganfeatures_1024_4 original RFR 6  0.2 20
+358 0.7282615789789572 morganfeatures_1024_2 scaled RFR 9 sqrt 0.3 20
+274 0.7282615789789572 morganfeatures_1024_2 original RFR 9 sqrt 0.3 20
+25 0.7255220994987752 morganfeatures_1024_2 original RFR 5  0.2 20
+405 0.7241191423173052 morganfeatures_1024_2 scaled RFR 9 sqrt 0.3 100
+174 0.7241191423173052 morganfeatures_1024_2 scaled RFR 9 sqrt 0.3 100
+12 0.7193931081383168 morganfeatures_1024_4 scaled RFR 9 sqrt 0.5 50
+401 0.7183198772561082 morganfeatures_1024_2 original RFR 10 sqrt 0.2 100
+20 0.714974764987593 morganfeatures_1024_3 scaled RFR 8 sqrt 0.8 20

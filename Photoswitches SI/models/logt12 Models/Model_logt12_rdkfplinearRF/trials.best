@@ -1,0 +1,51 @@
+trial score desc scaling method max_depth max_features max_samples n_estimators
+188 0.5154100759441164 rdkfplinear_1024_4 original RFR 9 sqrt 0.8 20
+370 0.5150277777795165 rdkfplinear_1024_4 scaled RFR 8 sqrt 0.7 100
+39 0.5142274064788606 rdkfplinear_1024_3 original RFR 7 sqrt 0.7 100
+342 0.5134232024415564 rdkfplinear_1024_4 scaled RFR 7 sqrt 0.8 100
+329 0.5107020381173142 rdkfplinear_1024_2 original RFR 10 sqrt 0.7 20
+127 0.509426525062947 rdkfplinear_1024_3 original RFR 9 log2 0.8 100
+46 0.509426525062947 rdkfplinear_1024_3 original RFR 9 log2 0.8 100
+96 0.5089922029218069 rdkfplinear_1024_2 scaled RFR 9 sqrt 0.7 100
+361 0.5089904956189018 rdkfplinear_1024_2 scaled RFR 7 sqrt 0.7 100
+476 0.5087200184883724 rdkfplinear_1024_3 original RFR 7 sqrt 0.5 20
+493 0.5071749788897618 rdkfplinear_1024_2 original RFR 6 sqrt 0.8 20
+483 0.5068914813417196 rdkfplinear_1024_4 original RFR 9 sqrt 0.5 20
+109 0.5062727735482269 rdkfplinear_1024_4 scaled RFR 8 sqrt 0.7 20
+288 0.5054105451628715 rdkfplinear_1024_3 scaled RFR 9 sqrt 0.5 100
+447 0.5052133820023141 rdkfplinear_1024_3 scaled RFR 8  0.5 100
+209 0.5051135335664417 rdkfplinear_1024_4 scaled RFR 10 log2 0.7 100
+189 0.5050384074340342 rdkfplinear_1024_3 scaled RFR 7  0.7 100
+167 0.5049206019162722 rdkfplinear_1024_2 scaled RFR 8 log2 0.8 100
+270 0.5033167771597251 rdkfplinear_1024_2 scaled RFR 6 sqrt 0.7 20
+182 0.5030888693007936 rdkfplinear_1024_2 scaled RFR 8 log2 0.7 100
+263 0.5029688056157393 rdkfplinear_1024_4 original RFR 10 log2 0.7 20
+88 0.5026788059219148 rdkfplinear_1024_3 original RFR 8 log2 0.8 100
+120 0.5025552967593675 rdkfplinear_1024_3 original RFR 9  0.7 20
+149 0.502210734947449 rdkfplinear_1024_2 original RFR 8 sqrt 0.8 150
+318 0.502210734947449 rdkfplinear_1024_2 original RFR 8 sqrt 0.8 150
+271 0.5016973123620352 rdkfplinear_1024_4 original RFR 8 log2 0.7 100
+441 0.5015076972897254 rdkfplinear_1024_2 scaled RFR 8 sqrt 0.7 50
+470 0.5004443451860696 rdkfplinear_1024_3 original RFR 7  0.7 20
+465 0.500241969842745 rdkfplinear_1024_2 scaled RFR 6 sqrt 0.7 100
+356 0.4998678373520621 rdkfplinear_1024_2 scaled RFR 10 log2 0.8 50
+426 0.49977798612734003 rdkfplinear_1024_3 scaled RFR 8  0.8 20
+102 0.4995854911268328 rdkfplinear_1024_3 scaled RFR 9 log2 0.5 100
+251 0.49950230603741197 rdkfplinear_1024_4 scaled RFR 5  0.8 20
+36 0.4986049270201387 rdkfplinear_1024_2 scaled RFR 9  0.5 20
+103 0.4986049270201387 rdkfplinear_1024_2 scaled RFR 9  0.5 20
+354 0.4986028173362196 rdkfplinear_1024_2 scaled RFR 9 log2 0.8 50
+366 0.49832429900974373 rdkfplinear_1024_2 original RFR 10 log2 0.5 100
+158 0.49832429900974373 rdkfplinear_1024_2 scaled RFR 10 log2 0.5 100
+337 0.4982572064442946 rdkfplinear_1024_4 original RFR 6  0.5 20
+104 0.49813145839752737 rdkfplinear_1024_2 scaled RFR 7 log2 0.7 100
+241 0.4980485565171835 rdkfplinear_1024_2 scaled RFR 7 sqrt 0.8 200
+177 0.4979983000501731 rdkfplinear_1024_3 scaled RFR 10 sqrt 0.5 50
+56 0.49703215176727955 rdkfplinear_1024_3 original RFR 8 sqrt 0.7 150
+276 0.4958499833795489 rdkfplinear_1024_2 original RFR 9 log2 0.5 20
+161 0.4958156021693677 rdkfplinear_1024_3 scaled RFR 8  0.5 50
+321 0.4951673267465291 rdkfplinear_1024_2 scaled RFR 8 sqrt 0.7 150
+86 0.49455998949030133 rdkfplinear_1024_3 scaled RFR 7 log2 0.8 20
+43 0.49428837989627383 rdkfplinear_1024_4 scaled RFR 7  0.7 100
+273 0.49395021552279594 rdkfplinear_1024_3 scaled RFR 8 sqrt 0.7 200
+406 0.49392767295067586 rdkfplinear_1024_4 original RFR 5  0.7 20
