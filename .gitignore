@@ -1,0 +1,14 @@
+__pycache__
+*.py[cod]
+*.so
+*.c
+.DS_Store
+
+.idea
+venv
+
+.eggs
+*.egg-info
+build
+dist
+MANIFEST

@@ -1,0 +1,17 @@
+{
+    "desc": "layered_1024_8",
+    "scaling": "scaled",
+    "method": "SVR",
+    "C": 63.9147520923497,
+    "kernel": "rbf",
+    "coef0": 4.4537898100537685,
+    "ntrials": 1000,
+    "cv_splits": 10,
+    "cv_repeats": 10,
+    "jobs": 15,
+    "timeout": 1200,
+    "earlystop": [
+        0,
+        1
+    ]
+}

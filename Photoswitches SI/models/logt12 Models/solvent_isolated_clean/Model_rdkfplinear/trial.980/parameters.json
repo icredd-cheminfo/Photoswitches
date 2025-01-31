@@ -1,0 +1,17 @@
+{
+    "desc": "rdkfplinear_1024_5",
+    "scaling": "original",
+    "method": "SVR",
+    "C": 4295.29541270762,
+    "kernel": "sigmoid",
+    "coef0": -2.936569311788851,
+    "ntrials": 1000,
+    "cv_splits": 10,
+    "cv_repeats": 10,
+    "jobs": 15,
+    "timeout": 1200,
+    "earlystop": [
+        0,
+        1
+    ]
+}
