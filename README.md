@@ -72,4 +72,5 @@ The code for restoring the models from these files is provided in the Jupyter no
 
 - Dr. Said Byadi, WPI-ICReDD, Hokkaido University
 - Dr. Pavel Sidorov, WPI-ICReDD, Hokkaido University
+  
 Correspondence should be sent to Dr. Sidorov, please refer to the preprint for the contact information.
